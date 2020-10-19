@@ -18,9 +18,9 @@ La libreria es parte del sistema [SIF](http://sif.ec) la cual es una herramienta
 
 ### Requerimientos
 1. Firma electronica archivo .p12. Puede ser obtenida de las siguientes entidades
-* [Banco Central](http://www.eci.bce.ec/)
-* [Security Data](http://www.securitydata.net.ec/)
-* [Función Judicial](http://www.funcionjudicial.gob.ec/)
+   * [Banco Central](http://www.eci.bce.ec/)
+   * [Security Data](http://www.securitydata.net.ec/)
+   * [Función Judicial](http://www.funcionjudicial.gob.ec/)
 
 
 ### Como Libreria (JAR)
