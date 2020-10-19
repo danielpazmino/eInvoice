@@ -12,10 +12,13 @@ eInvoice es una libreria que permite generar, autorizar y enviar facturas electr
 * Librerias MITyCLib
 
 ### Caso de uso
-La libreria es parte del sistema [SIF](http://sif.ec) que es una herramienta para la administracion de empresas
+La libreria es parte del sistema [SIF](http://sif.ec) la cual es una herramienta para la administración de negocios
 
 ## Guía de Uso
 ### Como Libreria (JAR)
 
 
 ### Como Microservicio
+
+## AUTOR
+Desarrollado por daniel.pazmino@gmail.com
