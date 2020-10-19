@@ -20,5 +20,5 @@ La libreria es parte del sistema [SIF](http://sif.ec) la cual es una herramienta
 
 ### Como Microservicio
 
-## AUTOR
+## Autor
 Desarrollado por daniel.pazmino@gmail.com
